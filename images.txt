@@ -13,3 +13,4 @@ mtphotos/mt-photos:latest
 mtphotos/mt-photos-ai:latest
 luodaoyi/kms-server
 cooderl/wewe-rss-sqlite
+ghcr.io/home-assistant/home-assistant:stable
