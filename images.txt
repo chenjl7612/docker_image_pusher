@@ -15,4 +15,4 @@ luodaoyi/kms-server
 cooderl/wewe-rss-sqlite
 ghcr.io/home-assistant/home-assistant:stable
 
-jericx/syncclipboard-server:latest
+jericx/syncclipboard-server
